@@ -18,7 +18,7 @@ Exemplo de uso:
 
 ### parseInt()
 
-O método **parseInt** transforma qualquer número em texto, para um dado numérico inteiro. Lembrando que caso tenha casas decimais, o recomendado é utilizar o **parseFloat()**
+O método **parseInt()** transforma qualquer número em texto, para um dado numérico inteiro. Lembrando que caso tenha casas decimais, o recomendado é utilizar o **parseFloat()**
 
 Exemplo de uso:
 
